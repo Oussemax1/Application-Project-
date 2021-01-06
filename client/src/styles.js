@@ -11,6 +11,7 @@ export default makeStyles(() => ({
   },
   heading: {
     color: 'rgb(218,165,32)',
+    
   },
   image: {
     marginLeft: '15px',
